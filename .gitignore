@@ -1,2 +1,4 @@
 /audio-streaming-nestjs/
 /audio-streaming-react-redux/
+node_modules/
+yarn.lock
