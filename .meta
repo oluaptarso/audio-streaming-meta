@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "audio-streaming-nestjs": "https://github.com/oluaptarso/audio-streaming-nestjs",
+    "audio-streaming-react-redux": "https://github.com/oluaptarso/audio-streaming-react-redux"
+  }
+}
