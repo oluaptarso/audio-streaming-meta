@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "meta-npm": "^1.2.7",
+    "meta-yarn": "^1.1.5"
+  }
+}
