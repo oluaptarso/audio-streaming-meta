@@ -7,7 +7,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Nest Debug",
+      "name": "API (NestJs): Debug server",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
@@ -21,21 +21,21 @@
       "cwd" : "${workspaceFolder}\\audio-streaming-nestjs"
     },
     {
-      "name": "Next.js: debug server-side",
+      "name": "WebApp (Next.js): Debug server-side",
       "type": "node-terminal",
       "request": "launch",
       "command": "npm run dev",
       "cwd" : "${workspaceFolder}\\audio-streaming-react-redux"
     },
     {
-      "name": "Next.js: debug client-side",
+      "name": "WebApp (Next.js): Debug client-side",
       "type": "chrome",
       "request": "launch",
       "url": "http://localhost:3000",
       "cwd" : "${workspaceFolder}\\audio-streaming-react-redux"
     },
     {
-      "name": "Next.js: debug full stack",
+      "name": "WebApp (Next.js): Debug full stack",
       "type": "node-terminal",
       "request": "launch",
       "command": "npm run dev",
