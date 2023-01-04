@@ -45,7 +45,7 @@ yarn global add meta
 Clone the meta and children repositories using git meta:
 
 ```
-meta git clone https://github.com/oluaptarso/audio-streaming-nestjs-react-redux
+meta git clone https://github.com/oluaptarso/audio-streaming-meta
 ```
 
 Install the meta project dev dependencies:
