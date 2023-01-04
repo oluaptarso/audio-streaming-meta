@@ -21,10 +21,10 @@ This meta[¹](#meta) repository manages the multi-project web application.
 
 ## Projects
 
-### **[audio-streaming-nestjs](https://github.com/oluaptarso/audio-streaming-nestjs)**:
+### **[audio-streaming-api](https://github.com/oluaptarso/audio-streaming-api)**:
 Backend REST API project, developed with [Nest](https://nestjs.com)
 
-### **[audio-streaming-react-redux](https://github.com/oluaptarso/audio-streaming-react-redux)**:
+### **[audio-streaming-web-app](https://github.com/oluaptarso/audio-streaming-web-app)**:
 Frontend web application project, developed with [Next.js](https://nextjs.org)
 
 ## Requirements
