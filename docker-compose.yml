@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  webapp:
+    build: ./audio-streaming-react-redux/.
+    ports:
+      - "3000:3000"
+    image: audio-streaming-webapp
+  api:
+    build: ./audio-streaming-nestjs/.
+    ports:
+      - "3001:3001"
+    image: audio-streaming-api
